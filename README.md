@@ -105,3 +105,22 @@ background:#000;
 
 </body>
 </html>
+<section style="padding:60px 20px;text-align:center;background:#1a1a1a;color:white;">
+  <h1>Welcome to Click-Maza</h1>
+  <p>Latest Updates • Fast • Mobile Friendly</p>
+
+  <a href="#latest"
+     style="display:inline-block;margin-top:20px;padding:12px 25px;
+     background:#ff3b3b;color:white;text-decoration:none;border-radius:8px;">
+     Explore
+  </a>
+</section> <section id="latest" style="padding:30px;color:white;">
+  <h2>Latest Updates</h2>
+
+  <div style="background:#222;padding:15px;border-radius:10px;margin-top:15px;">
+    <h3>Example Post</h3>
+    <p>Description...</p>
+  </div>
+</section> <footer style="background:#000;color:#aaa;text-align:center;padding:20px;">
+© 2026 Click-Maza
+</footer>
