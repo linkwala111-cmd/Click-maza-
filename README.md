@@ -124,3 +124,6 @@ background:#000;
 </section> <footer style="background:#000;color:#aaa;text-align:center;padding:20px;">
 © 2026 Click-Maza
 </footer>
+<a href="https://example.com" target="_blank">
+  <button>Open</button>
+</a>
